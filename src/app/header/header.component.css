@@ -1,0 +1,19 @@
+.headerContainer {
+    width: 100%; 
+    height: 50px;
+    background-color: #0d6dfd;
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.d-flex {
+    padding-top: 10px;
+}
+
+p {
+    margin: 10px
+}
+
+h1 {
+    color: white
+}
